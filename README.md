@@ -10,3 +10,12 @@
 
 
 [source](https://alternative.me/crypto/fear-and-greed-index/)
+
+
+# Tech stack
+
+1. Node.js.
+2. Telegram bot package ([npm package](https://www.npmjs.com/package/node-telegram-bot-api)).
+3. Cron package ([npm package](https://www.npmjs.com/package/cron)).
+4. Mongo db database ([mlab](https://docs.mlab.com/connecting/)).
+5. Heroku or Digital ocean for hosting.
