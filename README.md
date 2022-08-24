@@ -19,3 +19,8 @@
 3. Cron package ([npm package](https://www.npmjs.com/package/cron)).
 4. Mongo db database ([mlab](https://docs.mlab.com/connecting/)).
 5. Heroku or Digital ocean for hosting.
+
+# Simple mocks
+
+![image](https://user-images.githubusercontent.com/20063800/186422692-ab37a6e8-cff9-47d2-b2b6-35816fd0004e.png)
+
